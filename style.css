@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.heads {
+    margin-top: 50px;   
+    text-align: center;
+    border: 2px double black;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: beige;
+}
+
+.namebox {
+    margin: 200px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 10px;
+    border: 5px ridge black;
+    text-align: center;
+    background-color: skyblue;
+}
+
+#itpic {
+    font-size: 50px;
+    text-align: center;
+    border: 0cap;
+    margin: 200px;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: beige;
+}
+#itrealpic {
+    width: 500px;
+    height: 100px;
+}
+
+body {
+    background-image: url(https://images3.alphacoders.com/129/1296940.jpg);
+
+}
