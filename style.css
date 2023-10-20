@@ -6,17 +6,7 @@
 
 }
 
-.heads {
-    margin-top: 50px;   
-    text-align: center;
-    border: 2px double black;
-    padding: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    background-color: beige;
-}
-
-.namebox {
+.box {
     margin: 200px;
     margin-top: 50px;
     margin-bottom: 0px;
