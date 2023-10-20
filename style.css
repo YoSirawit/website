@@ -40,6 +40,16 @@
     height: 100px;
 }
 
+#profile {
+    font-size: 50px;
+    align-items: center;
+}
+
+#mysocial {
+    align-content: center;
+    justify-content: center;
+}
+
 body {
     background-image: url(https://images3.alphacoders.com/129/1296940.jpg);
 
